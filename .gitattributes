@@ -1,0 +1,13 @@
+.fonts/ filter=lfs diff=lfs merge=lfs -text
+.fonts/Candy[[:space:]]Wrapper[[:space:]]Sans filter=lfs diff=lfs merge=lfs -text
+.fonts/Kismet[[:space:]]Script filter=lfs diff=lfs merge=lfs -text
+.fonts/Lime[[:space:]]Bitters[[:space:]]Sans filter=lfs diff=lfs merge=lfs -text
+.fonts/Irton[[:space:]]Duo filter=lfs diff=lfs merge=lfs -text
+.fonts/Marshland[[:space:]]Script filter=lfs diff=lfs merge=lfs -text
+.fonts/Rustic[[:space:]]Market[[:space:]]Sans filter=lfs diff=lfs merge=lfs -text
+.fonts/She[[:space:]]Sells[[:space:]]Seashells filter=lfs diff=lfs merge=lfs -text
+.fonts/Springbreak filter=lfs diff=lfs merge=lfs -text
+.fonts/Brauhaus[[:space:]]Script[[:space:]]Font filter=lfs diff=lfs merge=lfs -text
+.fonts/gnu-free filter=lfs diff=lfs merge=lfs -text
+.fonts/Grateful[[:space:]]Season[[:space:]]Script filter=lfs diff=lfs merge=lfs -text
+.fonts/mathjax2 filter=lfs diff=lfs merge=lfs -text
